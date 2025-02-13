@@ -1,0 +1,43 @@
+.gg{
+    width: 83%;
+    border-radius: 5px;
+}
+.ff{
+    height: 30px;
+    padding: 3px;
+    position: absolute;
+    left: -25px;
+    border-radius: 2px;
+}
+.gg2{
+    width: 44%;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 0px;
+}
+.ff2{
+    height: 40px;
+    padding: 8px;
+    position: absolute;
+    left: -48px;
+    top: -30px;
+    border-radius: 5px;
+    margin: 30px 0;
+}
+.gg3{
+    width: 77%;
+    border-radius: 5px;
+    margin: 10px 0;
+    height: 40px;
+    margin-left: 0px;
+}
+.ff3{
+    height: 50px;
+    padding: 22px;
+    position: absolute;
+    left: -25px;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 0px;
+    margin: 20px 0;
+}

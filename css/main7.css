@@ -1,0 +1,17 @@
+.form-controle{
+    width: 300px;
+    height: 50px;
+    border-radius: 7px;
+}
+.nh{
+    border: 2px solid red;
+}
+.nm{
+    margin-left: 60px;
+}
+.hj{
+    margin-top: 40px;
+}
+.kl{
+    margin-left: 150px;
+}
